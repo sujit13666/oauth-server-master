@@ -1,0 +1,3 @@
+stark_industries_iron_wall:
+    resource: "@StarkIndustriesIronWallBundle/Resources/config/routing.yml"
+    prefix:   /
