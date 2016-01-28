@@ -19,3 +19,5 @@ stark_industries_api_articles:
 stark_industries_api_user:
     pattern:  /api/user
     defaults: { _controller: StarkIndustriesIronWallBundle:Api:user }
+
+	
